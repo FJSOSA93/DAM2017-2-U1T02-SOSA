@@ -3,5 +3,5 @@
 !
 
  ## Integrantes
-- [Meta](# Francisco Sosa)
-- [Meta](# Eduardo Rivera)
+- Francisco Sosa
+- Eduardo Rivera
